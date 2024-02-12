@@ -28,8 +28,6 @@ package com.mycompany.agency;
      
      return "\nName: " + name + "\nAddress: " + address + "\nPhone: " + phone;
 
-     return "\nName: " + name + "\nAddress: " + address + "\nPhone: " + phone;
-
     }
 
     //-----------------------------------------------------------------
